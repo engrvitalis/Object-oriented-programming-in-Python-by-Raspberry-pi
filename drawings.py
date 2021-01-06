@@ -16,4 +16,8 @@ rect2.set_x(100)
 rect2.set_y(200)
 rect2.draw()
 
+oval = Oval()
+oval.randomize()
+oval.draw()
+
 paper.display()
